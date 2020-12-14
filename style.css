@@ -1,0 +1,97 @@
+.bg{
+	background-image: url(clown.jpg);
+}
+
+
+.header-height{
+	height: 100px;
+}
+
+
+.content-height{
+	height: 800px;
+}
+
+
+.col-height{
+	height: 375px;
+}
+
+
+.col-height-2{
+	height: 375px;
+	margin-top: 20px; 
+}
+
+
+.col-height-3{
+	height: 350px;
+	margin-top: 10px;
+}
+
+
+.col-height-4{
+	height: 200px;
+	margin-top: 10px;
+}
+
+.col-height-5{
+	height: 850px;
+}
+
+.col-height-6{
+	height: 600px;
+}
+
+.col-height-7{
+	height: 482px;
+}
+
+.col-height-8{
+	height: 700px;
+}
+
+.col-height-9{
+	height: 640px;
+}
+
+.col-height-10{
+	height: 700px;
+}
+
+.height-35{
+	height: 35px;
+}
+
+
+.height-50{
+	height: 50px;
+}
+
+.height-54{
+	height: 54px;
+}
+
+.height-70{
+	height: 70px;
+}
+
+.height-75{
+	height: 75px;
+}
+
+.logo-height{
+	height: 25px;
+}
+
+.logo2-height{
+	height: 35px;
+}
+
+.margin-top{
+	margin-top: -20px;
+}
+
+.font-size{
+	font-size: 20px;
+}
